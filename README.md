@@ -42,9 +42,7 @@ docker環境構築用のファイル取得
 
 `composer create-project --prefer-dist laravel/laravel lara-d "6.*"`
 
-
-
-docker-compose.yml変更
+- docker-compose.yml変更
 
 volumes:
 
@@ -60,7 +58,7 @@ volumes:
 
 
 
-apatch.confの変更
+- apatch.confの変更
 
 DocumentRoot ”var/www/html/”　→　DocumentRoot ”var/www/html/public”
 
