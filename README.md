@@ -1,6 +1,7 @@
 # docker-on-vagrant
 
 vagrantの環境構築用ファイル群です
+以下の順番でコマンド入力いただけると完了いたします
 
 `git remote https://github.com/volcite/docker-on-vagrant.git`
 
