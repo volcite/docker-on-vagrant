@@ -13,4 +13,4 @@ vagrantの環境構築用ファイル群です
 
 これでvagrantの環境構築は完了です
 
-次はdockerの環境構築に移ってください
+次はdocker-laravelの環境構築に移ってください
