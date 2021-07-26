@@ -16,7 +16,7 @@ vagrant起動
 
 docker環境構築用のファイル取得
 
-`git remote https://github.com/volcite/docker-laravel.git`
+`git clone https://github.com/volcite/docker-laravel.git`
 
 仮想マシンに入る
 
