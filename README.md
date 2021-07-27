@@ -30,9 +30,9 @@ docker環境構築用のファイル取得
 
 `sudo gpasswd -a $USER docker`
 
-`exit`
+`sudo systemctl restart docker`
 
-`sudo systemctl start docker`
+`exit`
 
 `docker-compose build`
 
