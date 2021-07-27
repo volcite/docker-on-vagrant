@@ -32,6 +32,8 @@ docker環境構築用のファイル取得
 
 `exit`
 
+`sudo systemctl start docker`
+
 `docker-compose build`
 
 `docker-compose up -d`
