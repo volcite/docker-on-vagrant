@@ -7,7 +7,7 @@ https://www.virtualbox.org/wiki/Downloads
 
 windowsの人はwindows host
 
-macの人はLinux distributions
+macの人はOS X hosts
 
 をインストール
 
