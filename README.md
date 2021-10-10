@@ -2,10 +2,15 @@
 
 ## VirtualBoxインストール
 https://www.virtualbox.org/wiki/Downloads
+
 ![image](https://user-images.githubusercontent.com/78579016/136678359-ca41693f-fd64-40cb-be60-cf44314f50d9.png)
+
 windowsの人はwindows host
+
 macの人はLinux distributions
+
 をインストール
+
 全て「次へ」or「はい」で問題ありません
 
 ## Windowsの場合VirtualBoxインストール後下記の対応が必要
@@ -20,10 +25,15 @@ macの人はLinux distributions
 
 ## vagrantインストール
 https://www.vagrantup.com/downloads
+
 ![image](https://user-images.githubusercontent.com/78579016/136678390-a9124ae6-58e9-437e-b5a1-ab354eb12d48.png)
+
 windowsの人は「windows」
+
 macの人は「macOS」
+
 をインストール
+
 全て「次へ」or「はい」で問題ありません
 
 
